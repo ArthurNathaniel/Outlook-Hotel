@@ -158,6 +158,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 0 5%;
+    background-color: #eee;
 }
 
 .service-box h4 {
@@ -174,7 +175,6 @@ body {
     background-color: #8D7B68;
     color: #fff;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px 0px;
-
 }
 
 .reservation-home {
